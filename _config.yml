@@ -1,7 +1,7 @@
 title: 涂亮 
 email: info@tuliang.org
 description: "涂亮的个人博客"
-baseurl: ""
+baseurl: "/"
 url: "alfred-sun.github.io"
 username: 'tuliang'
 repository: "https://github.com/tuliangblog"
